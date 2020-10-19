@@ -1,0 +1,7 @@
+F:\c#\New folder (2)\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+F:\c#\New folder (2)\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+F:\c#\New folder (2)\Lab01\Lab01\bin\Debug\Lab01.exe.config
+F:\c#\New folder (2)\Lab01\Lab01\bin\Debug\Lab01.exe
+F:\c#\New folder (2)\Lab01\Lab01\bin\Debug\Lab01.pdb
+F:\c#\New folder (2)\Lab01\Lab01\obj\Debug\Lab01.exe
+F:\c#\New folder (2)\Lab01\Lab01\obj\Debug\Lab01.pdb
